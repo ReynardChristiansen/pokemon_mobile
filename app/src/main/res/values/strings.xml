@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">asg_mobprog</string>
+    <string name="login">https://mustseeum.com/api/account/login</string>
+    <string name="register">https://mustseeum.com/api/account/register</string>
+    <string name="home">https://mustseeum.com/api/places/places_list</string>
+</resources>
