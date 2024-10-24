@@ -4,7 +4,7 @@
 Pokemon Math is a mobile application that combines a Pokemon-themed game with mathematics to educate children in counting. The app provides an engaging way for kids to practice math problems while enjoying the thrill of catching Pokemon.
 
 
-
+![image alt](https://reynardchristiansen.github.io/porto/assets/project-12.png)
 
 
 ## Features
